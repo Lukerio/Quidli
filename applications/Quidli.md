@@ -72,17 +72,17 @@ We’re asking for $3,000 (in $PROTON, USDC or fiat preference) to kick off the 
 
 ### Milestone Example
 
-- **Milestone:** 
+- **Milestone:** 1 (Token Documenation)
 - **Estimated duration:** 1 week
 - **FTE:**  2
 - **Costs:** 0 USD
 
-- **Milestone:** 2
+- **Milestone:** 2 (Transactions, Integrations and Tests)
 - **Estimated duration:** 1 week
 - **FTE:**  2
 - **Costs:** 3,000 USD
 
-- **Milestone:** 3
+- **Milestone:** 3 (Review with Proton Protocol)
 - **Estimated duration:** 1 week
 - **FTE:**  2
 - **Costs:** 0 USD
